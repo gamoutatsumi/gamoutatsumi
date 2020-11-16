@@ -14,11 +14,13 @@
 
 ![](./profile-summary-card-output/github/1-repos-per-language.svg)
 
+## Twitter Activity
+
 ![twitter activity](https://pixe.la/v1/users/gamoutatsumi/graphs/daily-tweets.svg)
 
 ![twitter badge](https://pixe.la/v1/users/gamoutatsumi/graphs/daily-tweets.svg?mode=badge)
 
-#### Analysis
+### Analysis
 
 <!--START_SECTION:waka-->
 ```text
