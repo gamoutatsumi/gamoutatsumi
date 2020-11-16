@@ -14,6 +14,10 @@
 
 ![](./profile-summary-card-output/github/1-repos-per-language.svg)
 
+![twitter activity](https://pixe.la/v1/users/gamoutatsumi/graphs/daily-tweets.svg)
+
+![twitter badge](https://pixe.la/v1/users/gamoutatsumi/graphs/daily-tweets.svg?mode=badge)
+
 #### Analysis
 
 <!--START_SECTION:waka-->
@@ -26,4 +30,4 @@ Markdown   47 mins         █▓░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-[![Waka-Readme](https://github.com/gamoutatsumi/gamoutatsumi/workflows/Waka-Readme/badge.svg)](https://github.com/gamoutatsumi/gamoutatsumi/actions?query=workflow%3AWaka-Readme) [![GitHub-Profile-Summary-Cards](https://github.com/gamoutatsumi/gamoutatsumi/workflows/GitHub-Profile-Summary-Cards/badge.svg)](https://github.com/gamoutatsumi/gamoutatsumi/actions?query=workflow%3AGitHub-Profile-Summary-Cards)
+[![Waka-Readme](https://github.com/gamoutatsumi/gamoutatsumi/workflows/Waka-Readme/badge.svg)](https://github.com/gamoutatsumi/gamoutatsumi/actions?query=workflow%3AWaka-Readme) [![GitHub-Profile-Summary-Cards](https://github.com/gamoutatsumi/gamoutatsumi/workflows/GitHub-Profile-Summary-Cards/badge.svg)](https://github.com/gamoutatsumi/gamoutatsumi/actions?query=workflow%3AGitHub-Profile-Summary-Cards) [![update_yesterday](https://github.com/gamoutatsumi/tweet_pixels/workflows/update_yesterday/badge.svg)](https://github.com/gamoutatsumi/tweet_pixels/actions/runs/366009587) [![update_today](https://github.com/gamoutatsumi/tweet_pixels/workflows/update_today/badge.svg)](https://github.com/gamoutatsumi/tweet_pixels/actions?query=workflow%3Aupdate_today)
