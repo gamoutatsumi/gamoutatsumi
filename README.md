@@ -26,6 +26,4 @@ Markdown   47 mins         █▓░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-[![Waka-Readme](https://github.com/gamoutatsumi/gamoutatsumi/workflows/Waka-Readme/badge.svg)](https://github.com/gamoutatsumi/gamoutatsumi/actions?query=workflow%3AWaka-Readme)
-
-[![GitHub-Profile-Summary-Cards](https://github.com/gamoutatsumi/gamoutatsumi/workflows/GitHub-Profile-Summary-Cards/badge.svg)](https://github.com/gamoutatsumi/gamoutatsumi/actions?query=workflow%3AGitHub-Profile-Summary-Cards)
+[![Waka-Readme](https://github.com/gamoutatsumi/gamoutatsumi/workflows/Waka-Readme/badge.svg)](https://github.com/gamoutatsumi/gamoutatsumi/actions?query=workflow%3AWaka-Readme)[![GitHub-Profile-Summary-Cards](https://github.com/gamoutatsumi/gamoutatsumi/workflows/GitHub-Profile-Summary-Cards/badge.svg)](https://github.com/gamoutatsumi/gamoutatsumi/actions?query=workflow%3AGitHub-Profile-Summary-Cards)
