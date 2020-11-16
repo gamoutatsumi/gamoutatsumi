@@ -15,4 +15,11 @@
 #### Analysis
 
 <!--START_SECTION:waka-->
+```text
+Bash       4 hrs 43 mins   █████████░░░░░░░░░░░░░░░░   36.03 % 
+Other      3 hrs 31 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.82 % 
+YAML       1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+JSON       1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Markdown   47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+```
 <!--END_SECTION:waka-->
