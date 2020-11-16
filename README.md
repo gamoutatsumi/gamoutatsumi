@@ -12,6 +12,8 @@
   </a>
 </p>
 
+![](./profile-summary-card-output/github/1-repos-per-language.svg)
+
 #### Analysis
 
 <!--START_SECTION:waka-->
