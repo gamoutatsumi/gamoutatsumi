@@ -1,4 +1,4 @@
-# gamoutatsumi
+# Gamou Tatsumi
 
 <p align="left"> 
   <a href="https://github.com/gamoutatsumi/gamoutatsumi/">
