@@ -12,7 +12,7 @@
   </a>
 </p>
 
-![](./profile-summary-card-output/github/1-repos-per-language.svg)![](https://github-readme-stats.vercel.app/api?username=gamoutatsumi&show_icons=true&theme=tokyonight)
+![](./profile-summary-card-output/nord_dark/1-repos-per-language.svg)![](https://github-readme-stats.vercel.app/api?username=gamoutatsumi&show_icons=true&theme=tokyonight)
 
 ## Twitter Activity
 
