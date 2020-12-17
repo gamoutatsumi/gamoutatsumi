@@ -1,6 +1,6 @@
 # Gamou Tatsumi
 
-<p align="left"> 
+<p align="left">
   <a href="https://github.com/gamoutatsumi/gamoutatsumi/">
     <img src="https://komarev.com/ghpvc/?username=gamoutatsumi" alt="gamoutatsumi" />
   </a>
@@ -12,7 +12,7 @@
   </a>
 </p>
 
-![](./profile-summary-card-output/github/1-repos-per-language.svg)
+![](./profile-summary-card-output/github/1-repos-per-language.svg)![](https://github-readme-stats.vercel.app/api?username=gamoutatsumi&show_icons=true&theme=tokyonight)
 
 ## Twitter Activity
 
@@ -24,11 +24,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Rust       27 hrs 28 mins  ██████████████░░░░░░░░░░░   56.55 % 
-Other      4 hrs 35 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-Bash       4 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-Markdown   2 hrs 20 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-YAML       2 hrs 5 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+Rust       27 hrs 28 mins  ██████████████░░░░░░░░░░░   56.55 %
+Other      4 hrs 35 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
+Bash       4 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
+Markdown   2 hrs 20 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+YAML       2 hrs 5 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
 ```
 <!--END_SECTION:waka-->
 
