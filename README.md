@@ -16,7 +16,7 @@
 
 ## Twitter Activity
 
-![twitter activity](https://pixe.la/v1/users/gamoutatsumi/graphs/daily-tweets.svg)
+![twitter activity](https://pixe.la/v1/users/gamoutatsumi/graphs/daily-tweets.svg?appearance=dark)
 
 ![twitter badge](https://pixe.la/v1/users/gamoutatsumi/graphs/daily-tweets.svg?mode=badge)
 
