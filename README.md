@@ -24,11 +24,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     1 hr 1 min      ███████████░░░░░░░░░░░░░░   44.52 % 
-TypeScript   39 mins         ███████░░░░░░░░░░░░░░░░░░   28.49 % 
-Other        23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Lua          8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Bash         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
