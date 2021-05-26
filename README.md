@@ -2,13 +2,19 @@
 
 <p align="left">
   <a href="https://github.com/gamoutatsumi/gamoutatsumi/">
-    <img src="https://komarev.com/ghpvc/?username=gamoutatsumi" alt="gamoutatsumi" />
+    <img src="https://komarev.com/ghpvc/?username=gamoutatsumi" alt="github_profile_view" />
   </a>
   <a href="http://twitter.com/gamoutatsumi">
-    <img height="20" src="https://img.shields.io/twitter/follow/gamoutatsumi?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/gamoutatsumi?label=Twitter&logo=twitter&style=flat" alt="twitter_followers" />
   </a>
   <a href="https://github.com/gamoutatsumi">
-    <img height="20" src="https://img.shields.io/github/followers/gamoutatsumi?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/gamoutatsumi?label=follow&logo=github&style=flat" alt="github_followers" />
+  </a>
+  <a href="https://zenn.dev/gamoutatsumi">
+    <img height="20" src="https://zenn.badge.nikaera.com/s/gamoutatsumi/likes?style=flat" alt="zenn_liked" />
+  </a>
+  <a href="https://zenn.dev/gamoutatsumi">
+    <img height="20" src="https://zenn.badge.nikaera.com/s/gamoutatsumi/articles?style=flat" alt="zenn_articles" />
   </a>
 </p>
 
